@@ -1,0 +1,12 @@
+CALE builds on the public FRACAL and MMDetection implementations.
+
+FRACAL: https://github.com/kostas1515/FRACAL
+MMDetection: https://github.com/open-mmlab/mmdetection
+APA / AGLU: https://github.com/kostas1515/AGLU
+
+The mmdet directory includes detector implementations and modifications from
+these projects. Existing copyright and license notices are retained. The cale
+directory, inference configurations, and tools provide the CALE release's
+score adjustment, prior estimation, and evaluation interface.
+
+Datasets and model checkpoints are distributed by their original providers.

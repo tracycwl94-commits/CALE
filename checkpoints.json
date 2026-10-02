@@ -1,0 +1,37 @@
+{
+  "lvis_r50": {
+    "filename": "lvis_r50.pth",
+    "url": "https://drive.usercontent.google.com/download?id=1W5SAFxGrygPISX-DI905PzbjBahU1Lgk&export=download",
+    "evaluated_checkpoint_sha256": "328d08dbfaf34cd65fd020184cb0ed70346e436bf6bb42d68367caa20cc1c92e"
+  },
+  "lvis_r101": {
+    "filename": "lvis_r101.pth",
+    "url": "https://drive.usercontent.google.com/download?id=1wWYsxIZYnqMvUYz2whRMN5KfFMC5ihF5&export=download",
+    "evaluated_checkpoint_sha256": "81c7ae704e05a2a7134dc2879db06198258a49c36a409b84f915c440f8cf5f24"
+  },
+  "lvis_x101_32": {
+    "filename": "lvis_x101_32.pth",
+    "url": "https://download.openmmlab.com/mmdetection/v2.0/lvis/mask_rcnn_x101_32x4d_fpn_sample1e-3_mstrain_1x_lvis_v1/mask_rcnn_x101_32x4d_fpn_sample1e-3_mstrain_1x_lvis_v1-ebbc5c81.pth",
+    "evaluated_checkpoint_sha256": "ebbc5c81beb2492dbcbf844e6012cf1d7a75825afac7962111172fc95f94ee5b"
+  },
+  "lvis_x101_64": {
+    "filename": "lvis_x101_64.pth",
+    "url": "https://download.openmmlab.com/mmdetection/v2.0/lvis/mask_rcnn_x101_64x4d_fpn_sample1e-3_mstrain_1x_lvis_v1/mask_rcnn_x101_64x4d_fpn_sample1e-3_mstrain_1x_lvis_v1-43d9edfe.pth",
+    "evaluated_checkpoint_sha256": "43d9edfeed5f9371f3d3653ab352a0a596022b0cb61e80bf782822e16d217226"
+  },
+  "lvis_atss": {
+    "filename": "lvis_atss.pth",
+    "url": null,
+    "evaluated_checkpoint_sha256": "14be9725860735caaad76e7321f6bb0605d684d93483b89958fcb36eb3632e0d"
+  },
+  "v3det_faster": {
+    "filename": "v3det_faster.pth",
+    "url": "https://drive.usercontent.google.com/download?id=1kSZkewkLNvpRcIE9f2fHVDvvn4xNCiI-&export=download",
+    "evaluated_checkpoint_sha256": "39892c6b353748b6e5abdf59012a67f51763fe404c6f319d23b2a38cb480affb"
+  },
+  "v3det_cascade": {
+    "filename": "v3det_cascade.pth",
+    "url": "https://drive.usercontent.google.com/download?id=1dhF2N-4ndpjFt46MA5hsnXx1zoUGks6u&export=download",
+    "evaluated_checkpoint_sha256": "02a3f80960f93129f69f892d81f1f40cad19fdb5838f7d5c301209f673ced288"
+  }
+}
