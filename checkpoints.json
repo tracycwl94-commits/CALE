@@ -21,7 +21,7 @@
   },
   "lvis_atss": {
     "filename": "lvis_atss.pth",
-    "url": https://drive.google.com/file/d/1gcKVckaYHxjTxm3OMp7g2H7-76h5SFj1/view?usp=drive_link,
+    "url": "https://drive.google.com/file/d/1gcKVckaYHxjTxm3OMp7g2H7-76h5SFj1/view?usp=drive_link",
     "evaluated_checkpoint_sha256": "14be9725860735caaad76e7321f6bb0605d684d93483b89958fcb36eb3632e0d"
   },
   "v3det_faster": {
