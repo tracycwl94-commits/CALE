@@ -58,8 +58,8 @@ Download the checkpoint for the desired configuration and save it under `checkpo
 | V3Det / Faster R-CNN + APA | [v3det_faster.py](configs/v3det_faster.py) | `v3det_faster.pth` | [APA/AGLU](https://drive.usercontent.google.com/download?id=1kSZkewkLNvpRcIE9f2fHVDvvn4xNCiI-&export=download) |
 | V3Det / Cascade R-CNN + APA | [v3det_cascade.py](configs/v3det_cascade.py) | `v3det_cascade.pth` | [APA/AGLU](https://drive.usercontent.google.com/download?id=1dhF2N-4ndpjFt46MA5hsnXx1zoUGks6u&export=download) |
 | LVIS / ATSS R50 | [lvis_atss.py](configs/lvis_atss.py) | `lvis_atss.pth` | [Download](https://drive.google.com/file/d/1gcKVckaYHxjTxm3OMp7g2H7-76h5SFj1/view?usp=drive_link) |
-The ATSS checkpoint was trained by us on LVIS v1.0 for 12 epochs.
-The V3Det configurations retain the APA/AGLU architecture and its learned parameters. Use the linked APA checkpoints. File hashes for the evaluated checkpoints are listed in [checkpoints.json](checkpoints.json).
+
+The ATSS checkpoint was trained by us on LVIS v1.0 for 12 epochs.The V3Det configurations retain the APA/AGLU architecture and its learned parameters. Use the linked APA checkpoints. File hashes for the evaluated checkpoints are listed in [checkpoints.json](checkpoints.json).
 
 ## Evaluation
 
